@@ -1,0 +1,11 @@
+{
+  "org": "geopandas",
+  "repo": "pyogrio",
+  "versions": [
+    {
+      "commit": "12efcde31098ec8276d4597f03dbdfbad9826945",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:21:09.085417+00:00"
+    }
+  ]
+}
