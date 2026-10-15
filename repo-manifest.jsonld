@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/geopandas/pyogrio/commit/12efcde31098ec8276d4597f03dbdfbad9826945",
       "git:hexsha": "12efcde31098ec8276d4597f03dbdfbad9826945",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:21:09.084902+00:00"
     },
     {
       "@id": "https://repolex.ai/r/geopandas/pyogrio/commit/d7ac3d1e973999802d95a832813deb3bd0d862ee",
